@@ -8,3 +8,9 @@
   box-shadow: none;
   border: none;
 }
+
+.footer-background {
+ background-color: white;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
